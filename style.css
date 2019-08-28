@@ -47,7 +47,7 @@ a{
 }
 
 body{
-    background-image: url("/assets/images/light-grey-terrazzo.png");
+    background-image: url("assets/images/light-grey-terrazzo.png");
     background-repeat: repeat;
     background-size: cover;
 }
@@ -106,14 +106,14 @@ hr{
 }
 
 #formname{
-    width: 95%;
+    
     height: 30px;
     padding-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 #formemail{
-    width:95%;
+
     height:30px;
     padding-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
@@ -121,7 +121,7 @@ hr{
 
 #tallmessage{
     height:250px;
-    width: 95%;
+    
     resize: none;
     padding: 10px;
     margin: 1px;
@@ -141,7 +141,7 @@ hr{
 
 /* !--THIS IS WHERE PORTFOLIO CSS STARTS */
 
-.percy{
+/* .percy{
     position: relative;
 }
 
@@ -163,7 +163,7 @@ hr{
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-}
+} */
 
  thumbnail{
      margin: 4px 15px 0px 0px;
