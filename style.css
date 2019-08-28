@@ -93,8 +93,8 @@ footer p{
 }
 
 hr{
-    margin-left: 25px;
-    width: 93.2%;
+    margin-left: 20px;
+    width: 95%;
 }
 
 /* THIS IS WHERE CONTACT FORM CSS STARTS */
@@ -106,14 +106,12 @@ hr{
 }
 
 #formname{
-    
     height: 30px;
     padding-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 #formemail{
-
     height:30px;
     padding-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
@@ -121,7 +119,6 @@ hr{
 
 #tallmessage{
     height:250px;
-    
     resize: none;
     padding: 10px;
     margin: 1px;
