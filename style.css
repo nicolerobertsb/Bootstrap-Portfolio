@@ -112,8 +112,8 @@ hr{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#email{
-    width: 95%;
+#formemail{
+    width:95%;
     height:30px;
     padding-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
@@ -121,7 +121,7 @@ hr{
 
 #tallmessage{
     height:250px;
-    width: 94%;
+    width: 95%;
     resize: none;
     padding: 10px;
     margin: 1px;
